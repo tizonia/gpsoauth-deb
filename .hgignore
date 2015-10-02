@@ -1,0 +1,7 @@
+# use glob syntax.
+syntax: glob
+gpsoauth
+build
+Thumbs.db
+*~
+*.orig
